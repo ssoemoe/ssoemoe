@@ -1,7 +1,4 @@
-### Hi there, I'm [Shane!](https://github.com/ssoemoe) 👋
-
-<br />
-<br />
+### Hi there, I'm [Shane!](https://github.com/ssoemoe) 👋  
 
 I am a software engineer who is trying to be consistent, productive and good at coding.
 
