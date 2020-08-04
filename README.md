@@ -5,7 +5,8 @@ I am a software engineer who is trying to be consistent, productive and good at 
 - 💻 I’m currently working at Oil Price Information Service (OPIS by IHS Markit)
 - 🌱 I’m currently learning .NET technologies, AWS & GraphQL 
 
-**Languages and Tools:**  
+### Technologies ###
+
 ![C#](https://img.shields.io/badge/-CSharp-purple?style=flat-square&logo=C-sharp)
 ![.Net Core](https://img.shields.io/badge/-.Net%20Core-purple?style=flat-square&logo=.net)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -24,9 +25,8 @@ I am a software engineer who is trying to be consistent, productive and good at 
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ssoemoe&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssoemoe&hide=TeX&layout=compact)
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ssoemoe&count_private=true&show_icons=true&include_all_commits=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssoemoe&hide=TeX&layout=compact)  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ssoemoe.ssoemoe)
