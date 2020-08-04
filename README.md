@@ -6,7 +6,7 @@ I am a software engineer who is trying to be consistent, productive and good at 
 - 🌱 I’m currently learning .NET technologies, AWS & GraphQL 
 
 **Languages and Tools:**  
-
+![C#](https://img.shields.io/badge/-CSharp-purple?style=flat-square&logo=C-sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
