@@ -29,4 +29,4 @@ I am a software engineer who is trying to be consistent, productive and good at 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ssoemoe&count_private=true&show_icons=true&include_all_commits=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssoemoe&layout=compact)  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ssoemoe.ssoemoe)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ssoemoe)
