@@ -28,5 +28,5 @@ I am a software engineer who is trying to be consistent, productive and good at 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ssoemoe&count_private=true&show_icons=true&include_all_commits=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssoemoe)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssoemoe&layout=compact)  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ssoemoe.ssoemoe)
