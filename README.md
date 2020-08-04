@@ -10,6 +10,7 @@ I am a software engineer who is trying to be consistent, productive and good at 
 ![C#](https://img.shields.io/badge/-CSharp-purple?style=flat-square&logo=C-sharp)
 ![.Net Core](https://img.shields.io/badge/-.Net%20Core-purple?style=flat-square&logo=.net)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-Brown?style=flat-square&logo=Java)
