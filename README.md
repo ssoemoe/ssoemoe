@@ -1,8 +1,8 @@
 ### Hi there, I'm [Shane!](https://github.com/ssoemoe) 👋  
 
-I am a software engineer who is trying to be persistent, productive and good at coding.
+I am a software engineer who is trying to be persistent, productive and expert at coding.
 
-- 💻 I’m currently working at Oil Price Information Service (OPIS by IHS Markit)
+- 💻 I’m currently working at Dow Jones & Company.
 - 🌱 I’m currently learning .NET technologies, AWS & GraphQL 
 
 ### Technologies ###
