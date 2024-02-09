@@ -1,9 +1,9 @@
 ### Hi there, I'm [Shane!](https://github.com/ssoemoe) 👋  
 
-I am a software engineer who is trying to be persistent, productive and expert at coding.
+I am a lifelong student of computer science, a chess hobbyist, and a supporter of Manchester United Football Club.             
 
-- 💻 I’m currently working at Dow Jones & Company.
-- 🌱 I’m currently learning .NET technologies, AWS & GraphQL 
+- 💻 I’m currently working as a full-time software engineer at OPIS, a Dow Jones Company.  
+- 🌱 I’m currently learning algorithms for image processing, GraphQL and FastAPI.  
 
 ### Technologies ###
 
