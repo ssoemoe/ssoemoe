@@ -29,5 +29,4 @@ I am a lifelong student of computer science, a chess hobbyist, and a supporter o
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssoemoe&layout=compact)  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ssoemoe&count_private=true&show_icons=true&include_all_commits=true&theme=buefy)  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ssoemoe)
